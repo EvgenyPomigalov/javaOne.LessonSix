@@ -1,0 +1,11 @@
+Among the facilities provided by the <code>System</code> class
+ * are standard input, standard output, and error output streams;
+ * access to externally defined properties and environment
+ * variables; a means of loading files and libraries; and a utility
+ * method for quickly copying a portion of an array
+
+ * The "standard" input stream. This stream is already
+     * open and ready to supply input data. Typically this stream
+     * corresponds to keyboard input or another input source specified by
+     * the host environment or user.
+
